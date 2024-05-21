@@ -1,0 +1,11 @@
+{
+  "name": "top-project-nodejs-basic-informational-site",
+  "version": "1.0.0",
+  "description": "A The Odin Project study project for a simple NodeJS server app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ensar Okumus",
+  "license": "MIT"
+}
