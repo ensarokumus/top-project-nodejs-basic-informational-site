@@ -4,8 +4,12 @@
   "description": "A The Odin Project study project for a simple NodeJS server app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon --env-file=.env index.js"
   },
   "author": "Ensar Okumus",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
